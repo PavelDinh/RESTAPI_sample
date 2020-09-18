@@ -2,3 +2,5 @@
 RESTAPI - Get,Post operace pomocí .Net Core 3.1.
 * ASP.NET - Swagger
 * Console App
+* PowerBI link : 
+https://app.powerbi.com/reportEmbed?reportId=77309bbf-d545-4faf-928f-a5b2037ac436&autoAuth=true&ctid=cbfce3bc-3bc6-4e18-b684-9e5fa7b80819&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
